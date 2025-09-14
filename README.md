@@ -36,4 +36,4 @@ To get a local copy up and running, follow these simple steps.
     ```sh
     git clone [https://github.com/your_username/your_repository.git](https://github.com/your_username/your_repository.git)
     ```
-2.  Open the `index.html` file in your web browser to play the game.
+2.  Open the `http://127.0.0.1:5500/index.html` file in your web browser to play the game.
